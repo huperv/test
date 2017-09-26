@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.first{
+	background: url(../img/iamge2.jpg) no-repeat center center/cover;
+	height: 100vh;
+	color: red;
+
+}
+
+.pic{
+	position: absolute;
+	left: 50%;
+	margin-left: -80px;
+	top: 50%;
+	margin-top: -80px;
+}
+
+.upper{
+	text-transform: uppercase;
+}
